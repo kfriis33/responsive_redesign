@@ -1,0 +1,125 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
+
+th {
+  text-align: left;
+}
+
+td {
+    vertical-align: top;
+}
+table {
+    border: 5px solid white;
+}
+
+body {
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+    color: #555B6E; 
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    text-shadow: 0 1px 1px #fff;
+    /* background-color: #ebf5f5; */
+    /* background-color: #f2fcfc; */
+}
+
+
+h1 {
+    /* color: #4d91d5; */
+    font-family: "Raleway";
+    font-size: 48px;
+    line-height: 30px;
+    /* font-weight: normal; */
+    margin-bottom: 0px;
+    margin-top: 00px;
+    color: #89B0AE;
+    /* text-align: center; */
+    text-shadow: 0 1px 1px #fff; }
+
+
+h2 {
+    font-family: "Raleway";
+    /*color: #525151;*/
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 24px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    text-shadow: 0 1px 1px #fff; }
+
+h3 {
+    font-family: "Raleway";
+    font-size: 20px;
+    line-height: 20px;
+    color: #89B0AE;
+    font-weight: medium;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    text-shadow: 0 1px 1px #fff;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    padding-top: 15px;
+}
+
+p {
+    color: #67696b;
+    /* font-family: "Libre Baskerville", serif; line-height: 24px; */
+    /* text-align: center; */
+    text-shadow: 0 1px 1px #fff;
+}
+
+a {
+    color: #FFC299;
+    font-weight: bold;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
+img {
+    max-width: 100%;
+    max-height:100%;
+}
+
+li {
+    padding: 5px;
+    padding-right: 10px;
+}
+
+.prototype-img {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.style-guide {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.card {
+    border-radius: 30px;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 12px 30px 12px 30px  ;
+    background-color: white;
+}
+
